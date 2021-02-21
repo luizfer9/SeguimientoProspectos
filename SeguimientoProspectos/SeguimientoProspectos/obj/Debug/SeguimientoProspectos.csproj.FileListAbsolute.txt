@@ -1,0 +1,9 @@
+C:\Users\luisf\Documents\proyectos\C#\SeguimientoProspectos\SeguimientoProspectos\bin\Debug\SeguimientoProspectos.exe.config
+C:\Users\luisf\Documents\proyectos\C#\SeguimientoProspectos\SeguimientoProspectos\bin\Debug\SeguimientoProspectos.exe
+C:\Users\luisf\Documents\proyectos\C#\SeguimientoProspectos\SeguimientoProspectos\bin\Debug\SeguimientoProspectos.pdb
+C:\Users\luisf\Documents\proyectos\C#\SeguimientoProspectos\SeguimientoProspectos\obj\Debug\SeguimientoProspectos.Form1.resources
+C:\Users\luisf\Documents\proyectos\C#\SeguimientoProspectos\SeguimientoProspectos\obj\Debug\SeguimientoProspectos.Properties.Resources.resources
+C:\Users\luisf\Documents\proyectos\C#\SeguimientoProspectos\SeguimientoProspectos\obj\Debug\SeguimientoProspectos.csproj.GenerateResource.cache
+C:\Users\luisf\Documents\proyectos\C#\SeguimientoProspectos\SeguimientoProspectos\obj\Debug\SeguimientoProspectos.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Documents\proyectos\C#\SeguimientoProspectos\SeguimientoProspectos\obj\Debug\SeguimientoProspectos.exe
+C:\Users\luisf\Documents\proyectos\C#\SeguimientoProspectos\SeguimientoProspectos\obj\Debug\SeguimientoProspectos.pdb
